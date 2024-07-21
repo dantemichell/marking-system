@@ -25,7 +25,7 @@ import IconContainer from './components/IconContainer.vue';
         <div class="column">
           <IconContainer></IconContainer>
         </div>
-        <div class="column">
+        <!-- <div class="column">
           <div class="field has-addons">
             <div class="control is-expanded">
               <input class="input is-large" type="text" placeholder="Competitive, trained, special, event, etc...">
@@ -36,7 +36,7 @@ import IconContainer from './components/IconContainer.vue';
               </button>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
 
     </div>
